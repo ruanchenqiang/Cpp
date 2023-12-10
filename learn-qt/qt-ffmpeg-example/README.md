@@ -1,3 +1,3 @@
 ## qt-ffmpeg-example
 
-![Alt text](https://github.com/ruanchenqiang/cpp/learn-qt/blob/master/qt-ffmpeg-example/convert.png)
+![Alt text](https://github.com/ruanchenqiang/cpp/blob/master/learn-qt/qt-ffmpeg-example/convert.png)
